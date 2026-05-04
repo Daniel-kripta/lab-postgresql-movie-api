@@ -36,7 +36,7 @@ El esquema de base de datos:
 
 ```
 ┌──────────────┐       ┌─────────────────┐       ┌────────────────┐
-│   directores │       │    peliculas     │       │    generos     │
+│   directores │       │    peliculas    │       │    generos     │
 ├──────────────┤       ├─────────────────┤       ├────────────────┤
 │ id (PK)      │◄──────│ id (PK)         │       │ id (PK)        │
 │ nombre       │       │ titulo          │──────►│ nombre         │
